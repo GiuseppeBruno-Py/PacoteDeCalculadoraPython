@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE
+MANIFEST.in
+README.txt
+setup.py
+giuseppebasiccalculator/__init__.py
+giuseppebasiccalculator.egg-info/PKG-INFO
+giuseppebasiccalculator.egg-info/SOURCES.txt
+giuseppebasiccalculator.egg-info/dependency_links.txt
+giuseppebasiccalculator.egg-info/top_level.txt
